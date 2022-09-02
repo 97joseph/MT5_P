@@ -1,7 +1,6 @@
 # MT5_P
  Assests Predictor
  
- 97joseph/MT5_P
 
 (( Ai-INPUTS ))
 1. Price Data
@@ -27,7 +26,7 @@
 1. Once price touches, BUY trade cancels
 — Ai confirms each entry via correlation (Ai-Confidence%)
 
-=====
+
 
 (( AutoTrader Settings ))
 1. Ai-Confidence%:
